@@ -1,0 +1,19 @@
+body, html {
+    background: #111;
+    color: white;
+    font-family: sans-serif;
+   text-align: center;
+   text-transform: uppercase;
+}
+h1 {
+    font-size: 42px
+}
+.cell {
+  width: 70px;
+  height: 70px;
+  border: 1px solid white;
+  display: inline-block;
+  margin: 5px;
+  font-size: 40px;
+  font-weight: bold;
+}
